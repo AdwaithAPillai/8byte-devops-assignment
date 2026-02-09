@@ -1,0 +1,9 @@
+bash
+# Install dependencies
+npm install
+
+# Run the application
+node app.js
+
+# Open browser and visit: http://localhost:3000
+# You should see: "8byte Intern Assignment Successfully Deployed
